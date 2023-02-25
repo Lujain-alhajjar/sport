@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/sport/static/css/main.5ccc9dd5.css",
+    "main.js": "/sport/static/js/main.f26d9b83.js",
+    "static/media/weightAndHeight.jpg": "/sport/static/media/weightAndHeight.fd91781b136955fdf690.jpg",
+    "static/media/healthyDevelopment.jpg": "/sport/static/media/healthyDevelopment.f5b3e6b29f3f359a5ceb.jpg",
+    "static/media/strongHeart.jpg": "/sport/static/media/strongHeart.8e3183a6b0893f4a8cff.jpg",
+    "static/media/IIncreased.jpg": "/sport/static/media/IIncreased.459430379109ca2deba2.jpg",
+    "static/media/sleeping.webp": "/sport/static/media/sleeping.5932f4cdbbfafd3aebe9.webp",
+    "static/media/mental.jfif": "/sport/static/media/mental.420e34c120f8d1fa704d.jfif",
+    "static/media/lung.jfif": "/sport/static/media/lung.911a992959fa855523b1.jfif",
+    "static/media/logo.jfif": "/sport/static/media/logo.fe24380fc8fc7d8eaec3.jfif",
+    "index.html": "/sport/index.html",
+    "main.5ccc9dd5.css.map": "/sport/static/css/main.5ccc9dd5.css.map",
+    "main.f26d9b83.js.map": "/sport/static/js/main.f26d9b83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ccc9dd5.css",
+    "static/js/main.f26d9b83.js"
+  ]
+}
