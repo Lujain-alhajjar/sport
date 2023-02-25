@@ -1,0 +1,32 @@
+.arms{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: var(--primary-padding) 0;
+    border-bottom: 1px solid var(--main-color);
+
+}
+.arms h2{
+    color: var(--main-color);
+    font-size: var(--font-size-titles);
+    font-family: var(--font-family);
+    font-weight: 500;
+}
+.arms iframe{
+    border-radius:10px ;
+    width: 560px;
+    height: 315px;
+}
+@media (max-width:992px) {
+    .arms{
+        display: block;
+    }
+    .arms h2{
+        text-align: center;
+    }
+    .arms iframe{
+        width: 60%;
+        margin-left: 20%;
+        height: 160px;
+    }
+}

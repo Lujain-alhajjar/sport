@@ -1,0 +1,24 @@
+.inputs{
+    width: 50%;
+    margin-top: var(--primary-margin);
+
+}
+.report{
+    display: flex;
+    justify-content: space-between;
+}
+.report img{
+    margin-top: var(--primary-margin);
+}
+@media (max-width:992px) {
+    .report{
+        display: block;
+    }
+    .report img{
+        width: 60%;
+        margin-left: 20%;
+    }
+    .inputs{
+        width: 100%;
+    }   
+}

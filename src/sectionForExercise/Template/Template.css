@@ -1,0 +1,7 @@
+.template{
+    padding: var(--primary-padding);
+    margin: var(--primary-margin);
+    background-color: var(--color-titles);
+    border-radius: var(--primary-border-raduis);
+    width: 80%;
+}

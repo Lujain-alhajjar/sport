@@ -1,0 +1,9 @@
+h1.firstTitle{
+    text-align: center;
+    color: var(--main-color);
+    font-size: 40px;
+    font-weight: bolder;
+    margin: 100px 0;
+    font-family: var(--font-family);
+    letter-spacing: 1.5px;
+}

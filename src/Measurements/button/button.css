@@ -1,0 +1,19 @@
+.button{
+    cursor: pointer;
+    text-align: center;
+    margin: var(--primary-margin) 0;
+    padding: 5px var(--primary-padding);
+    background-color: rgb(219, 219, 219);
+    width: 100%;
+    color: var(--main-color);
+    letter-spacing: 3.5px;
+    font-size: var(--font-size-titles);
+    font-weight: 500;
+    font-family: var(--font-family);
+}
+.bmi{
+    margin-top: var(--primary-margin);
+    width: 100%;
+    padding: var(--primary-padding);
+    text-align: center;
+}

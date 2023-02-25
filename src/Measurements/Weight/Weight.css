@@ -1,0 +1,6 @@
+
+.weight input{
+    margin-top: var(--primary-margin);
+    width: 100%;
+    padding: var(--primary-padding);
+}

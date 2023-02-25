@@ -1,0 +1,26 @@
+nav{
+    background-color: var(--main-color);
+    position:fixed;
+    top: 0;
+    left: 0;
+    
+}
+nav .logo,
+nav .logo img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+.links{
+    margin-left: 60%;
+}
+.links a{
+    text-decoration: none;
+    color: white;
+}
+.links a:hover{
+    color: rgb(139, 137, 133);
+}
+.links li {
+    margin-left: 10%;
+}
